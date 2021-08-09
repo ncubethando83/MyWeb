@@ -1,0 +1,49 @@
+body{
+    background-color: beige;
+    text-align: center;
+    
+}
+#top_image{
+    width: 40%;
+    border-radius: 50%;
+}
+#image_2{
+    border-radius: 50%;
+}
+h1{
+    color: forestgreen;
+    shape-margin: 50%;
+    
+}
+#h1_design,#h1_design2{
+   color: gold;
+}
+#h2_design{
+    color: maroon;
+}
+#contacts_design{
+    color: orangered;
+}
+h2{
+    color:forestgreen;
+}
+h3{
+    color: forestgreen;
+}
+h4{
+    color: gold;
+}
+th{
+    color: red;
+}
+li{
+    list-style: none;
+   color: darkgreen;
+}
+.paragraph1{
+    background-image:url("garden_2.jpg");
+    width: 40%;
+}
+#table_images{
+    width: 40%;
+    text-align: left;
